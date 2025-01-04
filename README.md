@@ -1,7 +1,6 @@
 [PIZZA SALES DATA ANALYSIS ON POWER BI.pdf](https://github.com/user-attachments/files/18308321/PIZZA.SALES.DATA.ANALYSIS.ON.POWER.BI.pdf)
 # Pizza-sales-dashboard-
 Power BI project analyzing pizza sales trends and revenue
-# Pizza Sales Dashboard
 
 This project showcases a Power BI dashboard analyzing pizza sales data to uncover trends in sales, revenue, and customer preferences.
 
